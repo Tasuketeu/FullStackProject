@@ -1,0 +1,9 @@
+com\company\base\massage\site\interfaces\ReviewRepository.class
+com\company\base\massage\site\businessLayer\ReviewServiceImpl.class
+com\company\base\massage\site\controllers\WebConfig.class
+com\company\base\massage\site\objModelClass\Review.class
+com\company\base\massage\site\controllers\ReviewController.class
+com\company\base\massage\site\controllers\WebConfig$1.class
+com\company\base\massage\site\jersey\JerseyConfig.class
+com\company\base\massage\site\MoviesApplication.class
+com\company\base\massage\site\interfaces\IContainReviews.class
